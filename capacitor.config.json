@@ -1,0 +1,13 @@
+{
+  "appId": "ch.nicolasfazio.democap21",
+  "appName": "CapTest",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/CapTest",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
